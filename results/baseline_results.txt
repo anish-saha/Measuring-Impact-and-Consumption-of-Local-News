@@ -1,0 +1,76 @@
+
+==============================
+LOGISTIC REGRESSION CLASSIFIER
+==============================
+              precision    recall  f1-score   support
+
+           0       0.76      1.00      0.87      1214
+           1       1.00      0.03      0.07       386
+
+    accuracy                           0.77      1600
+   macro avg       0.88      0.52      0.47      1600
+weighted avg       0.82      0.77      0.67      1600
+
+Validation Set Accuracy: 0.766875
+Validation Set F1 Score: 0.06516290726817044
+Validation Set Precision: 1.0
+Validation Set Recall: 0.03367875647668394
+Validation Set ROC-AUC: 0.5168393782383419
+
+
+              precision    recall  f1-score   support
+
+           0       0.90      1.00      0.95      1800
+           1       1.00      0.03      0.06       200
+
+    accuracy                           0.90      2000
+   macro avg       0.95      0.52      0.50      2000
+weighted avg       0.91      0.90      0.86      2000
+
+Test Set Accuracy: 0.903
+Test Set F1 Score: 0.058252427184466014
+Test Set Precision: 1.0
+Test Set Recall: 0.03
+Test Set ROC-AUC: 0.515
+
+========================
+RANDOM FOREST CLASSIFIER
+========================
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97      1214
+           1       0.89      0.91      0.90       386
+
+    accuracy                           0.95      1600
+   macro avg       0.93      0.94      0.93      1600
+weighted avg       0.95      0.95      0.95      1600
+
+Validation Set Accuracy: 0.95125
+Validation Set F1 Score: 0.8997429305912596
+Validation Set Precision: 0.8928571428571429
+Validation Set Recall: 0.9067357512953368
+Validation Set ROC-AUC: 0.9360696878387722
+
+
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98      1800
+           1       0.79      0.92      0.85       200
+
+    accuracy                           0.97      2000
+   macro avg       0.89      0.95      0.92      2000
+weighted avg       0.97      0.97      0.97      2000
+
+Test Set Accuracy: 0.9675
+Test Set F1 Score: 0.8498845265588916
+Test Set Precision: 0.7896995708154506
+Test Set Recall: 0.92
+Test Set ROC-AUC: 0.9463888888888888
+
+Feature Importances:
+('datetime-publish', 0.42427234337918884)
+('author', 0.17407572644751834)
+('word-count', 0.40165193017329287)
+
+Success! Baseline evaluation metrics displayed above.
+
