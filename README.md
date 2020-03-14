@@ -1,5 +1,5 @@
 # Measuring-Impact-and-Consumption-of-Local-News
-CS224N Final Project - Mentors: Gregory Martin and Shoshana Vasserman
+<i> CS224N Final Project - Mentors: Gregory Martin and Shoshana Vasserman </i>
 
 The value of impactful, award-winning journalism cannot be understated in terms of how it greatly shapes the public's perception of various ongoing trends and events around the world. On a more local level, impactful journalism can highlight ongoing major injustices by various corporate or federal entities, bring major world events, crimes, or court cases to the public eye, and even influence economics and perception surrounding affluent people, major political figures, large organizations, and flawed systems. However, while such journalism is recognized with awards such as the Pulitzer Prize, there exists no way to linguistically distinguish what exactly characterizes these impactful works. Such capabilities would have major positive implications, such as creating more economically viable models for publishers, fostering a more productive culture in the field of journalism, and gaining a better understanding of the aspects of journalism that influence people the most.  
 
