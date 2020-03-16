@@ -1,4 +1,4 @@
-# Short script to randomly sample and extract 10,000 rows from dataframe#
+# Short script to randomly sample and extract 10,000 rows from dataframe
 # author: Anish Saha
 import pandas as pd
 
